@@ -1,0 +1,23 @@
+{
+  "name": "express_server",
+  "version": "1.0.0",
+  "description": "Web server to show basic express features",
+  "main": "static_file_server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fergsmyth/node.git"
+  },
+  "author": "smythf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fergsmyth/node/issues"
+  },
+  "homepage": "https://github.com/fergsmyth/node#readme"
+}
